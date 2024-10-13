@@ -28,7 +28,7 @@ Avant de commencer, voici un aperçu des technologies et outils que j'utilise.
 Tout commence en 2018 ou j'integre l'Institut National Supérieur des Technologies Avancées (INSTA) basée à paris 5éme arrondisement où je ferais tout mon parcours supérieur
 
 #### De 2018 à 2020
-J'effectue un BTS SIO (services informatiques aux organisation) savec option SLAM (Solutions Logicielles et Applications Métiers)  
+J'effectue un BTS SIO (services informatiques aux organisation) savec option SLAM (Solutions Logicielles et Applications Métiers).  
 les differents objectif de ce BTS SIO option SLAM sont :  
 <ul>
   <li>La définition des spécifications techniques à partir de l’expression des besoins des utilisateurs et des contraintes de l’organisation préalablement recensés</li>
@@ -47,4 +47,35 @@ les differents objectif de ce BTS SIO option SLAM sont :
   <li>Le choix des solutions techniques les plus adaptées</li>
   <li>Le déploiement et la mise en production d’une solution applicative</li>
 </ul>
+
+####  De 2020 à 2021
+
+Aprés l'obtention de mon BTS SIO j'effectue un BAC+3 Concepteur développeur d’applications.
+les differents objectif de ce BAC+3 Concepteur développeur d’applications sont :
+<ul>
+  <li>Conçoit et développe des applications sécurisées, telles que des logiciels d'entreprise, des applications pour mobiles et tablettes, ainsi que des sites Web</li>
+  <li>Respecte la réglementation en vigueur</li>
+  <li>Identifie les besoins en éco-conception</li>
+  <li>Applique les procédures qualité de l'entreprise</li>
+  <li>Contribue à la réussite du projet en termes de :
+    <ul>
+      <li>Satisfaction des besoins des utilisateurs</li>
+      <li>Gestion de projet</li>
+      <li>Qualité</li>
+      <li>Coût</li>
+      <li>Délai</li>
+    </ul>
+  </li>
+  <li>Assure une sécurité constante de l'application</li>
+</ul>
+
+####  De 2021 à 2023
+
+Enfin aprés l'obtention de mon BAC+3 Concepteur développeur d’applications termine mon parcours superieur avec un Master Architecte en développement logiciel, web et mobile.  
+les differents objectif de ce Master Architecte en développement logiciel, web et mobile sont : 
+
+Le numérique est de plus en plus utilisé, ce qui engendre de plus en plus forte demande sur le marché de l’emploi des experts en informatique dans les domaines suivants : développement d’applications, conception de logiciels, gestion de projets, intelligence artificiel (IA), analyse des données, encadrement d'équipe, devops. L'objectif de la certification est de répondre à ces besoins du marché du travail.
+#
+
+C'est avec l'optention de mon master avec mention "exellent" de la par du jury que s'acheve mon parcours chez l'INSTA.
 
