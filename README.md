@@ -50,8 +50,8 @@ les differents objectif de ce BTS SIO option SLAM sont :
 
 ####  De 2020 à 2021
 
-Aprés l'obtention de mon BTS SIO j'effectue un BAC+3 Concepteur développeur d’applications.
-les differents objectif de ce BAC+3 Concepteur développeur d’applications sont :
+Aprés l'obtention de mon BTS SIO j'effectue une licence  Concepteur développeur d’applications.
+les differents objectif de cette licence Concepteur développeur d’applications sont :
 <ul>
   <li>Conçoit et développe des applications sécurisées, telles que des logiciels d'entreprise, des applications pour mobiles et tablettes, ainsi que des sites Web</li>
   <li>Respecte la réglementation en vigueur</li>
@@ -71,11 +71,10 @@ les differents objectif de ce BAC+3 Concepteur développeur d’applications son
 
 ####  De 2021 à 2023
 
-Enfin aprés l'obtention de mon BAC+3 Concepteur développeur d’applications termine mon parcours superieur avec un Master Architecte en développement logiciel, web et mobile.  
+Enfin aprés l'obtention de ma licence Concepteur développeur d’applications termine mon parcours superieur avec un Master Architecte en développement logiciel, web et mobile.  
 les differents objectif de ce Master Architecte en développement logiciel, web et mobile sont : 
 
 Le numérique est de plus en plus utilisé, ce qui engendre de plus en plus forte demande sur le marché de l’emploi des experts en informatique dans les domaines suivants : développement d’applications, conception de logiciels, gestion de projets, intelligence artificiel (IA), analyse des données, encadrement d'équipe, devops. L'objectif de la certification est de répondre à ces besoins du marché du travail.
-#
 
-C'est avec l'optention de mon master avec mention "exellent" de la par du jury que s'acheve mon parcours chez l'INSTA.
+<strong>C'est avec l'optention de mon master avec mention "exellent" de la par du jury que s'acheve mon parcours chez l'INSTA.</strong>
 
