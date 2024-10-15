@@ -13,13 +13,6 @@ Avant de commencer, voici un aperçu des technologies et outils que j'utilise.
 <img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
 #
@@ -30,51 +23,58 @@ Tout commence en 2018 ou j'integre l'Institut National Supérieur des Technologi
 #### De 2018 à 2020
 J'effectue un BTS SIO (services informatiques aux organisation) savec option SLAM (Solutions Logicielles et Applications Métiers).  
 les differents objectif de ce BTS SIO option SLAM sont :  
-<ul>
-  <li>La définition des spécifications techniques à partir de l’expression des besoins des utilisateurs et des contraintes de l’organisation préalablement recensés</li>
-  <li>La réalisation ou l’adaptation puis la validation de solutions applicatives à l’aide des environnements de développement retenus</li>
-  <li>La gestion du patrimoine applicatif</li>
-  <li>La rédaction de la documentation d’une solution applicative et la formation des utilisateurs</li>
-  <li>La recherche de réponses adaptées à des problèmes liés à la fourniture des services informatiques</li>
-  <li>L’accompagnement et l’assistance des utilisateurs</li>
-  <li>Le maintien de la qualité des services informatiques</li>
-</ul>
-
-<p><strong>En fonction de la taille du projet, le titulaire du diplôme peut également participer à :</strong></p>
-
-<ul>
-  <li>L’étude de l’existant, le recueil des besoins des utilisateurs et l’élaboration du cahier des charges</li>
-  <li>Le choix des solutions techniques les plus adaptées</li>
-  <li>Le déploiement et la mise en production d’une solution applicative</li>
-</ul>
 
 ####  De 2020 à 2021
 
 Aprés l'obtention de mon BTS SIO j'effectue une licence  Concepteur développeur d’applications.
-les differents objectif de cette licence Concepteur développeur d’applications sont :
-<ul>
-  <li>Conçoit et développe des applications sécurisées, telles que des logiciels d'entreprise, des applications pour mobiles et tablettes, ainsi que des sites Web</li>
-  <li>Respecte la réglementation en vigueur</li>
-  <li>Identifie les besoins en éco-conception</li>
-  <li>Applique les procédures qualité de l'entreprise</li>
-  <li>Contribue à la réussite du projet en termes de :
-    <ul>
-      <li>Satisfaction des besoins des utilisateurs</li>
-      <li>Gestion de projet</li>
-      <li>Qualité</li>
-      <li>Coût</li>
-      <li>Délai</li>
-    </ul>
-  </li>
-  <li>Assure une sécurité constante de l'application</li>
-</ul>
 
 ####  De 2021 à 2023
 
 Enfin aprés l'obtention de ma licence Concepteur développeur d’applications termine mon parcours superieur avec un Master Architecte en développement logiciel, web et mobile.  
-les differents objectif de ce Master Architecte en développement logiciel, web et mobile sont : 
 
-Le numérique est de plus en plus utilisé, ce qui engendre de plus en plus forte demande sur le marché de l’emploi des experts en informatique dans les domaines suivants : développement d’applications, conception de logiciels, gestion de projets, intelligence artificiel (IA), analyse des données, encadrement d'équipe, devops. L'objectif de la certification est de répondre à ces besoins du marché du travail.
+<strong>C'est avec l'optention de mon master avec mention "exellent" de la par du jury que s'acheve mon parcours chez l'INSTA.</strong>  
+## Mes Expériences professionnelles 🖥️
 
-<strong>C'est avec l'optention de mon master avec mention "exellent" de la par du jury que s'acheve mon parcours chez l'INSTA.</strong>
+#### 2014
+
+Ma premiere experience professionnel c'est passer lors d'un stage en 3 éme au college. Pour ce stage et pour une durée de 3 mois j'ai integré l'entrepise <strong>Seedbox Hosting</strong>, cette entrepise est spécialisé dans l'hebergement cloud au particulier.  
+Mon role etait Stagiaire assistant technique.  
+
+Mes taches durant ce stage sont :  
+L'installation et entretien de serveurs sous CentOS  
+Le support utilisateurs  
+Assistance Technique  
+
+#### Juin 2019
+
+Lors de ma premiere année de BTS chez l'INSTA j'ai effectuer un stage d'un mois chez C2S Bouygues.  
+Mes taches durant ce stage sont : 
+
+La consommation d’une API tierce pour obtenir en temps réel une liste d'événements
+signalés par des capteurs physiques.  
+le développement d'une application Android avec Flutter permettant de lister les événements des capteurs physiques.
+
+
+#### Janvier 2020
+
+Lors de ma deuxieme année de BTS chez l'INSTA j'ai effectuer un stage d'un mois chez DSI Montsegur Finance.  
+Mes taches durant ce stage sont :  
+Importation de la base de données sur un serveur de test  
+Mise à jour et amélioration de la base de données du site web  
+Contribution à la réalisation du Plan de Continuité d’Activité (PCA)
+
+#### Septembre 2020 à juillet 2021
+
+Lors de ma licence chez l'INSTA j'ai effectuer une alterance chez ENSA-21 qui est la structure professionnel de l'INSTA.  
+Mon role lors de cette année d'alterance etait :  
+La mise à jour de l'interface utilisateur de la plateforme étudiante  
+L'amélioration et ajout de fonctionnalités dynamiques du site web  
+Apporter du soutiens aux étudiants pour leurs projets de fin d'année  
+
+#### Octobre 2021 à septembre 2023
+
+Enfin durant mes deux années de master j'ai effectuer une alterance chez Orange CSE  
+Mes taches durant cette alterance sont :  
+-Développement d'une API REST d'extraction de fichiers  
+-Développement d'une application de gestion électronique de documents (GED)  
 
